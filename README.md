@@ -32,4 +32,4 @@ To simplify API testing, you can use the Postman collection linked below:
 
 ### [Download the Postman Collection](<https://drive.google.com/file/d/1z3nr_zzVNNXMzJLrSPXinIhyLIpeghLE/view?usp=sharing>)
 
-**Note**: Replace `<YOUR_POSTMAN_COLLECTION_LINK_HERE>` with the actual link to the collection hosted in Postman or shared via a public URL.
+
