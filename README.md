@@ -23,13 +23,13 @@ This is a Node.js backend project for managing tasks assigned to admins. It allo
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/aman-q/Growthx_API.git
    ```
 
 ## **Postman Collection**
 
 To simplify API testing, you can use the Postman collection linked below:
 
-### [Download the Postman Collection](<YOUR_POSTMAN_COLLECTION_LINK_HERE>)
+### [Download the Postman Collection](<https://drive.google.com/file/d/1z3nr_zzVNNXMzJLrSPXinIhyLIpeghLE/view?usp=sharing>)
 
 **Note**: Replace `<YOUR_POSTMAN_COLLECTION_LINK_HERE>` with the actual link to the collection hosted in Postman or shared via a public URL.
